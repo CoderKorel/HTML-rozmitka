@@ -1,0 +1,118 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    overflow: hidden;
+    float: right;
+}
+
+nav li {
+    float: left;
+    list-style: none;
+}
+
+nav li a {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 30px;
+    color: #5777F6;
+    text-shadow: 0 1px 0 white;
+}
+
+main {
+    text-align: center;
+}
+
+#home {
+    font-size: 30px;
+    height: 350px;
+    margin: 1px 1px 1px 1px;
+    padding: 30px;
+}
+
+#logo a {
+    margin-left: 20px;
+    float: left;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 26px;
+    text-shadow: 0 1px 0 white;
+    color: #5777F6;
+}
+
+#episodes {
+    border-top-style: solid;
+    line-height: 1.5;
+    padding: 30px;
+}
+
+#famousscenes {
+    border-top-style: solid;
+    line-height: 1.5;
+    padding: 30px;
+}
+
+#imbdrating {
+    border-top-style: solid;
+    line-height: 1.5;
+    padding: 30px;
+}
+
+#contact {
+    line-height: 1.5;
+    padding: 10px;
+    float:right;
+    
+}
+
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url(background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+class {
+    padding:20px;
+}
+
+p {
+    color: #5777F6;
+}
+
+h4 {
+    color:#5777F6;
+}
+
+
+#media {
+    padding:10px;
+}
+
+#cr {
+text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
